@@ -1,0 +1,14 @@
+C:\Users\Barış\source\repos\Film_Turr\bin\Debug\netcoreapp3.1\FilmTur.exe
+C:\Users\Barış\source\repos\Film_Turr\bin\Debug\netcoreapp3.1\FilmTur.deps.json
+C:\Users\Barış\source\repos\Film_Turr\bin\Debug\netcoreapp3.1\FilmTur.runtimeconfig.json
+C:\Users\Barış\source\repos\Film_Turr\bin\Debug\netcoreapp3.1\FilmTur.runtimeconfig.dev.json
+C:\Users\Barış\source\repos\Film_Turr\bin\Debug\netcoreapp3.1\FilmTur.dll
+C:\Users\Barış\source\repos\Film_Turr\bin\Debug\netcoreapp3.1\FilmTur.pdb
+C:\Users\Barış\source\repos\Film_Turr\obj\Debug\netcoreapp3.1\FilmTur.csproj.AssemblyReference.cache
+C:\Users\Barış\source\repos\Film_Turr\obj\Debug\netcoreapp3.1\FilmTur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barış\source\repos\Film_Turr\obj\Debug\netcoreapp3.1\FilmTur.AssemblyInfoInputs.cache
+C:\Users\Barış\source\repos\Film_Turr\obj\Debug\netcoreapp3.1\FilmTur.AssemblyInfo.cs
+C:\Users\Barış\source\repos\Film_Turr\obj\Debug\netcoreapp3.1\FilmTur.csproj.CoreCompileInputs.cache
+C:\Users\Barış\source\repos\Film_Turr\obj\Debug\netcoreapp3.1\FilmTur.dll
+C:\Users\Barış\source\repos\Film_Turr\obj\Debug\netcoreapp3.1\FilmTur.pdb
+C:\Users\Barış\source\repos\Film_Turr\obj\Debug\netcoreapp3.1\FilmTur.genruntimeconfig.cache

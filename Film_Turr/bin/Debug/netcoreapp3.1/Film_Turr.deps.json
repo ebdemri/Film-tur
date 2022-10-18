@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Film_Turr/1.0.0": {
+        "runtime": {
+          "Film_Turr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Film_Turr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
